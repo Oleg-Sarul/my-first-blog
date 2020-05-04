@@ -1,0 +1,24 @@
+absl-py==0.9.0
+appdirs==1.4.3
+asgiref==3.2.7
+astor==0.8.1
+bleach==1.5.0
+distlib==0.3.0
+Django==3.0.5
+filelock==3.0.12
+gast==0.3.3
+graphics.py==5.0.1.post1
+grpcio==1.28.1
+html5lib==0.9999999
+Markdown==3.2.1
+module-graph==0.0.1
+numpy==1.18.3
+protobuf==3.11.3
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
+tensorboard==1.8.0
+tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl
+termcolor==1.1.0
+virtualenv==20.0.18
+Werkzeug==1.0.1
